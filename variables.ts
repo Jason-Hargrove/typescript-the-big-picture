@@ -1,8 +1,8 @@
 // TypeScript Variables
 
-let fistName: string = 'Jason'
-let age: number = 47
-let activeMember: boolean = true
+let fistName = 'Jason'
+let age = 47
+let activeMember = true
 
 console.log(typeof age)
 
